@@ -1,0 +1,27 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qw-0p/gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Aleksandr Sarkisov <quopiks@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qw-0p/gulp/issues"
+  },
+  "homepage": "https://github.com/qw-0p/gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
