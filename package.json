@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/qw-0p/gulp#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
   }
 }
